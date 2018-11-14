@@ -1,7 +1,6 @@
+##Objectivev : To Learn the Basic of Python Library Called Numpy.
 
 
-Objectivev : To Learn the Basic of Python Library Called Numpy.
-===
 
 Numpy is the core library for scientific computing in Python. It provides a high-performance multidimensional array object, and tools for working with these arrays. A numpy array is a grid of values, all of the same type, and is indexed by a tuple of nonnegative integers. The number of dimensions is the rank of the array; the shape of an array is a tuple of integers giving the size of the array along each dimension.
 
@@ -9,12 +8,12 @@ The Python core library provided Lists. A list is the Python equivalent of an ar
 
 A common beginner question is what is the real difference here. The answer is performance. Numpy data structures perform better in:
 
-**Size:**
+Size:
 Numpy data structures take up less space.
 
-**Performance:**
+Performance:
 
 They have a need for speed and are faster than lists.
 
-**Functionality:**
+Functionality:
 SciPy and NumPy have optimized functions such as linear algebra operations built in.
