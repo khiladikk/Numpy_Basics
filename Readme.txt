@@ -1,6 +1,6 @@
 
 
-**Objectivev : To Learn the Basic of Python Library Called Numpy.**
+#H1 Objectivev : To Learn the Basic of Python Library Called Numpy.**
 
 
 Numpy is the core library for scientific computing in Python. It provides a high-performance multidimensional array object, and tools for working with these arrays. A numpy array is a grid of values, all of the same type, and is indexed by a tuple of nonnegative integers. The number of dimensions is the rank of the array; the shape of an array is a tuple of integers giving the size of the array along each dimension.
