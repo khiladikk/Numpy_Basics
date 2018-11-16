@@ -1,4 +1,4 @@
-Objective:
+Objective: 
 
 To Learn the Basic of Python Library Called "Numpy".
 
